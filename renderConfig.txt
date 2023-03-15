@@ -1,0 +1,5 @@
+FILENAME=Fluids.blend
+START=0
+END=99
+VIDEO=1
+PYTHONFILENAME=main.py
